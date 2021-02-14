@@ -1,0 +1,3 @@
+[2021-01-30 17:06:01,131] INFO [GroupCoordinator 0]: Member client-1-9c817da6-e0b9-463a-bdfd-74536e097eee in group mygroup has failed, removing it from the group (kafka.coordinator.group.GroupCoordinator)
+[2021-01-30 17:06:01,132] INFO [GroupCoordinator 0]: Preparing to rebalance group mygroup in state PreparingRebalance with old generation 5 (__consumer_offsets-39) (reason: removing member client-1-9c817da6-e0b9-463a-bdfd-74536e097eee on heartbeat expiration) (kafka.coordinator.group.GroupCoordinator)
+[2021-01-30 17:06:01,132] INFO [GroupCoordinator 0]: Group mygroup with generation 6 is now empty (__consumer_offsets-39) (kafka.coordinator.group.GroupCoordinator)

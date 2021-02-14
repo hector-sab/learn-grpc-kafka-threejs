@@ -1,0 +1,1 @@
+[2021-02-07 16:01:07,875] INFO Invalid session 0x100089634540000 for client /127.0.0.1:39914, probably expired (org.apache.zookeeper.server.ZooKeeperServer)

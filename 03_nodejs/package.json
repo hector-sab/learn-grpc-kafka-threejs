@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "google-protobuf": "^3.14.0",
+    "grpc-web": "^1.2.1",
+    "kafka-rest": "^0.0.5",
+    "kafkajs": "^1.15.0",
+    "node-rdkafka": "^2.10.1",
+    "ws": "^7.4.3"
+  }
+}
