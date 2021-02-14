@@ -1,5 +1,7 @@
 # gRPC-Kafka-Threejs
 
+![Architecture diagram](diagram.png)
+
 ## General Objective
 This project has general objective to be able to show a moving object in ThreeJS controlled by a completely different service.
 
